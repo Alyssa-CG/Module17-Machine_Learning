@@ -11,7 +11,7 @@ Models were tested and trained to evaluate the level of credit risk for loans to
 * SciPy v 1.4.1
 * Scikit-learn v 0.22.1
 * imbalanced-learn v 0.7.0
-##$# Data
+#### Data
 * [LoanStats_2019Q1.csv](https://github.com/Alyssa-CG/Module17-Machine_Learning/blob/master/Module-17-Challenge/Resources/LoanStats_2019Q1.csv.zip)
     IMPORTANT: Please note that file was extracted from linked zip to be read into the code as a .csv
     It was only zipped to conform to github size restrictions.
